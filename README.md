@@ -50,6 +50,10 @@ Evidència de la configuració manual de la pila TCP/IPv4 en el sistema host per
 ### 4.4 Dashboard i Estadístiques de Bloqueig
 Demostració del funcionament real amb consultes processades i tràfic bloquejat automàticament per les llistes de regles.
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/d6c0f647-1b26-46f5-8f31-026e8da1ae75" />
+<img width="1542" height="890" alt="image" src="https://github.com/user-attachments/assets/a9e33235-a17e-44d1-897a-1be0f587022b" />
+<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/f3e91c04-dc6d-4bbe-9616-538b182440ae" />
+
+
 
 
 
