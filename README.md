@@ -32,19 +32,26 @@ El servei s'ha desplegat utilitzant **Docker Compose**, garantint un entorn aïl
 
 ### 4.1 Verificació de Logs i Contenidor
 Es confirma que el contenidor s'ha creat correctament i que el servei web està disponible.
-![Logs inicials de Docker](paso1_logs.png)
+<img width="1450" height="361" alt="Captura de pantalla 2026-05-08 154341" src="https://github.com/user-attachments/assets/cfc7c438-2f46-4b54-ad67-2e0d6f552fa7" />
+
 
 ### 4.2 Assistent de Configuració Web
 Procés inicial on es defineixen les interfícies d'escolta per al tràfic DNS i l'administració.
-![Configuració inicial AdGuard](paso2_wizard.png)
+<img width="1478" height="758" alt="Captura de pantalla 2026-05-08 154758" src="https://github.com/user-attachments/assets/222a9ee4-ffad-4c52-9510-6f4728eea6b4" />
+<img width="1432" height="962" alt="Captura de pantalla 2026-05-08 154831" src="https://github.com/user-attachments/assets/7edb1119-f80a-46d2-8727-9b203e5a030f" />
+<img width="416" height="677" alt="Captura de pantalla 2026-05-08 154946" src="https://github.com/user-attachments/assets/6c259085-b4e1-496f-bfe1-41c4cc9e2e8f" />
+
 
 ### 4.3 Configuració DNS del Sistema
 Evidència de la configuració manual de la pila TCP/IPv4 en el sistema host per redirigir el tràfic cap al tallafocs DNS.
-![Configuració DNS Windows](paso3_dns_windows.png)
+<img width="1266" height="780" alt="image" src="https://github.com/user-attachments/assets/2ebbf21e-d73d-4dad-8876-adb29115ccb4" />
+
 
 ### 4.4 Dashboard i Estadístiques de Bloqueig
 Demostració del funcionament real amb consultes processades i tràfic bloquejat automàticament per les llistes de regles.
-![Dashboard Final AdGuard](paso4_dashboard.png)
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/d6c0f647-1b26-46f5-8f31-026e8da1ae75" />
+
+
 
 ---
 
